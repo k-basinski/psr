@@ -23,3 +23,8 @@ Medical University of Gdańsk
 ## Assignments
 
 - [Assignment 1](assignments/a01.md)
+
+
+## Assignment upload and attendance
+
+Please remember to enroll for the [moodle course](https://szkolenia.gumed.edu.pl/course/view.php?id=5177) to upload assignments and enable me to check your attendance!

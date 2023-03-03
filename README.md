@@ -23,6 +23,11 @@ Medical University of Gdańsk
 ## Assignments
 
 - [Assignment 1](assignments/a01.md)
+- [Assignment 2](assignments/a02.md)
+
+## Notebooks
+
+- [Week 2](notebooks/week2.ipynb)
 
 
 ## Assignment upload and attendance

@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../programowanie_psd"
+		},
+		{
+			"path": "../programowanie"
+		}
+	],
+	"settings": {
+		"grammarly.selectors": [
+			{
+				"language": "markdown",
+				"scheme": "file",
+				"pattern": "psr/01.md"
+			},
+			{
+				"language": "markdown",
+				"scheme": "file",
+				"pattern": "psr/01.md"
+			}
+		]
+	}
+}

@@ -29,6 +29,7 @@ Medical University of Gdańsk
 ## Notebooks
 
 - [Week 2](notebooks/week2.ipynb)
+- [Week 3](notebooks/week3.ipynb)
 
 
 ## Assignment upload and attendance

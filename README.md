@@ -26,11 +26,14 @@ Medical University of Gdańsk
 - [Assignment 2](assignments/a02.md)
 - [Assignment 3](assignments/a03.md)
 - [Assignment 4](assignments/a04.md)
+- [Assignment 5](assignments/a05.md)
 
 ## Notebooks
 
 - [Week 2](notebooks/week2.ipynb)
 - [Week 3](notebooks/week3.ipynb)
+- [Week 4](notebooks/week4.ipynb)
+- [Week 5](notebooks/week5.ipynb)
 
 
 ## Assignment upload and attendance

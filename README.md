@@ -29,6 +29,7 @@ Medical University of Gdańsk
 - [Assignment 5](assignments/a05.md)
 - [Assignment 6](assignments/a06.md)
 - [Assignment 7](assignments/a07.md)
+- [Assignment 8](assignments/a08.md)
 
 ## Notebooks
 
@@ -37,6 +38,7 @@ Medical University of Gdańsk
 - [Week 4](notebooks/week4.ipynb)
 - [Week 5](notebooks/week5.ipynb)
 - [Week 6](notebooks/week6.ipynb)
+- [Week 7](notebooks/week7.ipynb)
 
 
 ## Assignment upload and attendance

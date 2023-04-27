@@ -41,6 +41,7 @@ Medical University of Gdańsk
 - [Week 6](notebooks/week6.ipynb)
 - [Week 7](notebooks/week7.ipynb)
 - [Week 8](notebooks/week8.ipynb)
+- [Week 9](notebooks/week9.ipynb)
 
 
 ## Assignment upload and attendance

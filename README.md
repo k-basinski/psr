@@ -31,6 +31,7 @@ Medical University of Gdańsk
 - [Assignment 7](assignments/a07.md)
 - [Assignment 8](assignments/a08.md)
 - [Assignment 9](assignments/a09.md)
+- [Assignment 10](assignments/a10.md)
 
 ## Notebooks
 

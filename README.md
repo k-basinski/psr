@@ -24,7 +24,9 @@ Medical University of Gdańsk
 
 - [Assignment 1](assignments/a01.md)
 - 
-<!-- - [Assignment 2](assignments/a02.md)
+<!--
+
+ [Assignment 2](assignments/a02.md)
 - [Assignment 3](assignments/a03.md)
 - [Assignment 4](assignments/a04.md)
 - [Assignment 5](assignments/a05.md)

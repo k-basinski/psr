@@ -23,7 +23,7 @@ Medical University of Gdańsk
 ## Assignments
 
 - [Assignment 1](assignments/a01.md)
-- 
+
 <!--
 
  [Assignment 2](assignments/a02.md)

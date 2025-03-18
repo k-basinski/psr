@@ -25,10 +25,10 @@ Medical University of Gdańsk
 - [Assignment 1](assignments/a01.md)
 - [Assignment 2](assignments/a02.md)
 - [Assignment 3](assignments/a03.md)
+- [Assignment 4](assignments/a04.md)
 
 <!--
 
-- [Assignment 4](assignments/a04.md)
 - [Assignment 5](assignments/a05.md)
 - [Assignment 6](assignments/a06.md)
 - [Assignment 7](assignments/a07.md)
@@ -38,18 +38,27 @@ Medical University of Gdańsk
 
 ## Notebooks
 
-<!-- - [Week 2](notebooks/week2.ipynb)
-- [Week 3](notebooks/week3.ipynb)
-- [Week 4](notebooks/week4.ipynb)
-- [Week 5](notebooks/week5.ipynb)
-- [Week 6](notebooks/week6.ipynb)
-- [Week 7](notebooks/week7.ipynb)
-- [Week 8](notebooks/week8.ipynb)
-- [Week 9](notebooks/week9.ipynb)
-- [Week 10](notebooks/week10.ipynb)
-- [Week 11](notebooks/week11.ipynb)
-- [Week 12](notebooks/week12.ipynb)
-- [Week 13](notebooks/week13.ipynb) -->
+### Current
+
+- [Week 2](notebooks/psr_2.ipynb)
+- [Week 3](notebooks/psr_3.ipynb)
+- [Week 4](notebooks/psr_4.ipynb)
+
+
+### Old notebooks from 2023
+
+- [Week 2](notebooks/2023/week2.ipynb)
+- [Week 3](notebooks/2023/week3.ipynb)
+- [Week 4](notebooks/2023/week4.ipynb)
+- [Week 5](notebooks/2023/week5.ipynb)
+- [Week 6](notebooks/2023/week6.ipynb)
+- [Week 7](notebooks/2023/week7.ipynb)
+- [Week 8](notebooks/2023/week8.ipynb)
+- [Week 9](notebooks/2023/week9.ipynb)
+- [Week 10](notebooks/2023/week10.ipynb)
+- [Week 11](notebooks/2023/week11.ipynb)
+- [Week 12](notebooks/2023/week12.ipynb)
+- [Week 13](notebooks/2023/week13.ipynb)
 
 
 ## Assignment upload and attendance

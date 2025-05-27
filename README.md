@@ -45,6 +45,16 @@ Medical University of Gdańsk
 - [Week 2](notebooks/psr_2.ipynb)
 - [Week 3](notebooks/psr_3.ipynb)
 - [Week 4](notebooks/psr_4.ipynb)
+- [Week 5](notebooks/psr_5.ipynb)
+- [Week 6](notebooks/psr6.ipynb)
+- [Week 7](notebooks/psr7.ipynb)
+- [Week 8](notebooks/psr8.ipynb)
+- [Week 9](notebooks/psr9.ipynb)
+- [Week 10](notebooks/psr11.ipynb)
+- [Week 11](notebooks/psr12.ipynb)
+- [Week 12](notebooks/psr13.ipynb)
+- [Week 13](notebooks/psr14.ipynb)
+
 
 
 ### Old notebooks from 2023
